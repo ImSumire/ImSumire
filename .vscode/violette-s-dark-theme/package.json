@@ -1,0 +1,24 @@
+{
+	"name": "theme-violette-dark",
+	"displayName": "Violette's Dark Theme",
+	"description": "A simple dark theme",
+	"version": "1.0.0",
+	"publisher": "Violette",
+	"repository": "https://github.com/violettttte/violettttte/.vscode",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Violette Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/violette-s-dark-theme.json"
+			}
+		]
+	}
+}
