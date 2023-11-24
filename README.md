@@ -2,7 +2,7 @@
 violette@imsumire:~$ ./welcome.yaml >> README.md
 ```
 
-<img align="left" src="https://i.pinimg.com/564x/8e/08/c5/8e08c56c344e3382235ab2a4b1bab1d9.jpg" width="350" />
+<img align="left" src="https://i.pinimg.com/564x/8e/08/c5/8e08c56c344e3382235ab2a4b1bab1d9.jpg" width="320" />
 
 ```yaml
 os: Ubuntu 23.04
@@ -17,7 +17,7 @@ interests:
     music: [Hans Zimmer, Lana Del Rey, Clairo, girl in red]
     sciences: [Math, Physic, Biology, Astrology]
     animals: [Cats, Otters, Red Pandas, Foxes, Bears]
-    code: [Games, Shaders, Frameworks, Animations, Optimizations]
+    code: [Games, Shaders, Frameworks, Optimizations]
 
 discord: imsumire
 pinterest: Violettttte
