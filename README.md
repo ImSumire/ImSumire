@@ -1,5 +1,5 @@
 ```console
-violette@imsumire:~$ ./welcome.yaml >> README.md
+violette@imsumire:~$ ./valkommen.yaml >> README.md
 ```
 
 <img align="left" src="https://i.pinimg.com/564x/8e/08/c5/8e08c56c344e3382235ab2a4b1bab1d9.jpg" width="320" />
