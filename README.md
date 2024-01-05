@@ -9,7 +9,7 @@ os: Ubuntu 23.04
 ide: Visual Studio Code
 
 languages:
-    programming: [JavaScript, Python, Ocaml, GLSL]
+    programming: [Rust, TypeScript, Julia, Nim, JavaScript, Python, Ocaml]
     computer: [HTML, CSS, JSON, YAML, XML, LaTeX, Markdown]
     real: [French, English, Swedish]
 interests:
@@ -17,7 +17,7 @@ interests:
     music: [Hans Zimmer, Lana Del Rey, Clairo, girl in red]
     sciences: [Math, Physic, Biology, Astrology]
     animals: [Cats, Otters, Red Pandas, Foxes, Bears]
-    code: [Games, Shaders, Frameworks, Optimizations]
+    code: [Computer Science, Shaders, Games, Optimizations]
 
 discord: imsumire
 pinterest: Violettttte
