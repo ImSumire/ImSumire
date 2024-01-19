@@ -2,7 +2,7 @@
 violette@imsumire:~$ ./valkommen.yaml >> README.md
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ImSumire/ImSumire/main/assets/img/cat.webp" width="320" />
+<img align="left" src="https://raw.githubusercontent.com/ImSumire/ImSumire/main/cat.webp" width="320" />
 
 ```yaml
 os: Ubuntu 23.04
