@@ -1,0 +1,74 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "fira-code-material-icon-theme",
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontLigatures": true,
+    "python.createEnvironment.trigger": "off",
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "too-long-line-limit.hardLimitSeverity": "2",
+    "too-long-line-limit.softLimitSeverity": "2",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "Notes.notesLocation": "/home/violette/Documents/VSC Notes",
+    "[glsl]": {
+        "editor.defaultFormatter": "raczzalan.webgl-glsl-editor"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "compile-hero.generate-minified-css": true,
+    "compile-hero.javascript-output-directory": "../js",
+    "compile-hero.less-output-directory": "../css",
+    "compile-hero.sass-output-directory": "../css",
+    "compile-hero.scss-output-directory": "../css",
+    "compile-hero.stylus-output-directory": "../css",
+    "compile-hero.typescript-output-directory": "../js",
+    "compile-hero.typescriptx-output-directory": "../js",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "markdown-preview-enhanced.codeBlockTheme": "github-dark.css",
+    "markdown-preview-enhanced.previewTheme": "none.css",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "Notes.notesExtensions": "md,markdown,txt,py",
+    "git.autofetch": true,
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "zig.path": "/opt/zig/zig",
+    "zig.zls.path": "/home/violette/.config/Code/User/globalStorage/ziglang.vscode-zig/zls_install/zls",
+    "zig.initialSetupDone": true,
+    "makefile.configureOnOpen": false,
+    "[liquid]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid"
+    },
+    "editor.minimap.enabled": false,
+    
+    "workbench.activityBar.location": "bottom",
+    "window.menuBarVisibility": "toggle",
+    "explorer.compactFolders": false,
+    "workbench.startupEditor": "none",
+    "window.newWindowDimensions": "inherit",
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.productIconTheme": "bongocat",
+    "zenMode.hideLineNumbers": false,
+    "zenMode.centerLayout": false,
+    "python.envFile": "~/.env"
+}

@@ -1,0 +1,4 @@
+- Os: [Ubuntu 24.04.1 LTS](https://ubuntu.com/) but i'll switch to [Fedora 41 beta LXQt](https://fedoraproject.org/spins/lxqt/)
+- Discord: [Vesktop](https://github.com/Vencord/Vesktop)
+- Minecraft Launcher: [PrismLauncher](https://prismlauncher.org/)
+- Web browser: [Brave](https://brave.com/)

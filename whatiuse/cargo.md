@@ -1,0 +1,2 @@
+- [lsd](https://github.com/lsd-rs/lsd)
+- [viu](https://github.com/atanunq/viu)

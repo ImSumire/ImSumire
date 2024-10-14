@@ -1,0 +1,3 @@
+- Theme: [Catppuccin](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme)
+- Icons: [Colloid Pastel](https://github.com/SueDonham/Colloid-pastel-icons)
+- Cursor: [Catppuccin](https://github.com/catppuccin/cursors)

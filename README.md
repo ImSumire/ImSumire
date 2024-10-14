@@ -11,7 +11,7 @@ theme: Catppuccin Macchiato Lavender
 icons: Colloid Pastel Dark
 
 languages:
-    programming: [C++, Rust, Glsl, Python]
+    programming: [Rust, C++, Glsl, Python]
     markup: [Html, Scss, Json, Yaml, Toml, LaTeX, Markdown]
     real: [French, English, Swedish]
 interests:
