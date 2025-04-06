@@ -13,7 +13,7 @@ I'm Violette, currently in second year of a bachelor’s degree at the Universit
 
 I'm diving deep into the vast and exciting world of computer science. I have a passion for learning and exploring different fields of tech, from game development to low-level things.
 
-<a href="https://imsumire.github.io/">
+<a href="https://imsumire.github.io/" target="_blank">
   <table align="right">
       <tr>
           <td>
