@@ -1,3 +1,9 @@
+**I won't be active here anymore, [here's my git.gay](https://git.gay/vi)**
+
+**Fuck the corporations!**
+
+---
+
 # 💐 Hej & Valkommen
 I'm Violette, currently in second year of a bachelor’s degree at the University in France.
 
