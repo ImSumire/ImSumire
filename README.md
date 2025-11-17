@@ -1,9 +1,3 @@
-**I won't be active here anymore, [here's my git.gay](https://git.gay/vi)**
-
-**Fuck the corporations!**
-
----
-
 # 💐 Hej & Valkommen
 I'm Violette, currently in second year of a bachelor’s degree at the University in France.
 
@@ -28,3 +22,13 @@ I'm diving deep into the vast and exciting world of computer science. I have a p
       </tr>
   </table>
 </a>
+
+<br>
+<br>
+<br>
+
+> Microsoft uses other people's code unethically and does not respect privacy.
+> 
+> I won't be active here anymore, here's my new forge :
+> 
+> [![git.gay/vi↗](https://img.shields.io/static/v1?label=&message=git.gay/vi↗&color=1b1b1b&style=flat-square)](https://git.gay/vi)
