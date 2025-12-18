@@ -1,5 +1,5 @@
 # 💐 Hej & Valkommen
-I'm Violette, currently in second year of a bachelor’s degree at the University in France.
+I'm Violette, currently in third year of a bachelor’s degree at the University in France.
 
 <br>
 
